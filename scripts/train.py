@@ -21,7 +21,7 @@ from chainer import serializers
 
 import lmdb
 from draw_loss import draw_loss
-from utils.transformer import transform
+# from utils.transformer import transform
 
 
 def create_args():

@@ -3,7 +3,7 @@
 
 import time
 import numpy as np
-from utils.transform import batch_transform
+# from utils.transform import batch_transform
 
 
 def transform(sat_batch, map_batch, fliplr, rotate, norm, sat_out_h, sat_out_w,

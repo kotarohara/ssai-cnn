@@ -24,3 +24,6 @@ results
 *.cmake
 *.dylib
 *.npy
+
+.idea/
+venv
